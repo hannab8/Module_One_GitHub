@@ -50,7 +50,7 @@ Please refer to this document to assist you with this assignment: [Markdown Chea
 
 You have now completed your first assignment! 🤘
 
-Just as a reminder, please notify a team lead when you have completed this task. The next one will be made available to you.
+Just as a reminder, please notify a team lead when you have completed this task and provide your GitHub username. The next one will then be made available to you.
 
 ## References
 Here you will find some additional information to refer to whenever you need. If you have a suggestions on what should be added, please let a team lead know!
