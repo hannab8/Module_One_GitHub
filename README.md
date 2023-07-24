@@ -26,7 +26,7 @@ Please refer to this document to assist you with this assignment: [Markdown Chea
 ```
 1.  Sign into your GitHub Account.
 
-2.  Create a New Repository called: <YourName>_Module1
+2.  Create a New Repository called: <YourName>_Training_Modules
 
 3.  Make sure that you include a Readme and that your repository is public.
 
