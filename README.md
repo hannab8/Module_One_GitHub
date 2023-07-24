@@ -59,6 +59,7 @@ Here you will find some additional information on GitHub. If you have any sugges
 
 1. [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 2. [More Fun Markdown Cheat Sheets](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
+3. [GitHub Emojis!](https://gitmoji.dev/) :fire:
    
 
 
