@@ -8,6 +8,8 @@ Each module will introduce a new concept for you to build upon, and in the end y
 
 ## Introduction
 
+GitHub is the version control tool that we use in the lab, and it is very important that you get a good grasp of it before we move on to the other modules. It may seem a bit intimidating for new users, but it will become **much** easier as we continue to use it!
+
 In this module you will be asked to watch the training video by clicking on the image below. It will introduce the GitHub fundamentals and everything you need to get started. You may follow along using your own device, or you may use one of the available PC's in the lab. 
 
 *Please note that you will eventually need your own device to complete tasks in the future.*
@@ -53,7 +55,7 @@ You have now completed your first assignment! 🤘
 Just as a reminder, please notify a team lead when you have completed this task and provide your GitHub username. The next one will then be made available to you.
 
 ## References
-Here you will find some additional information to refer to whenever you need. If you have a suggestions on what should be added, please let a team lead know!
+Here you will find some additional information on GitHub. If you have any suggestions on what should be added, please let a team lead know!
 
 1. [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 2. [More Fun Markdown Cheat Sheets](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
