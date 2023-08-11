@@ -30,24 +30,29 @@ Please refer to this document to assist you with this assignment: [Markdown Chea
 
 3.  Make sure that you include a Readme and that your repository is public.
 
-4.  Edit your Readme file and format it using the following:
+4.  Go to the settings tab and under 'Access' click on 'Collaborators'.
+    - Click the green 'Add People' button
+    - Type in: hannab8
+    - Click 'Add Hanna to this repository'
+
+5.  Edit your Readme file and format it using the following:
       - The first line: "<YourName> Module One" using H1 (header one)
       - The third line: "Answers:" using H2 (header two)
       - The fifth line: Start an ordered List (1.)
 
-5.  Answer the following questions by typing your short answers into the ordered list you created on line 5:
+6.  Answer the following questions by typing your short answers into the ordered list you created on line 5:
       a. What is the purpose of a version control system?
       b. How do you create a new branch in Git using the command line?
       c. What is the purpose of the git clone command?
       d. How do you stage changes for a commit in Git?
       e. What is a pull request used for?
 
-6.  Almost there! Let's test more of your knowledge on the markdown in your readme document.
+7.  Almost there! Let's test more of your knowledge on the markdown in your readme document.
       - Include a funny image or gif a few lines after your ordered list (must be appropriate)
       - Include a link to your favorite song or playlist. Feel free to style the link however you like.
         Please make sure all content is appropriate.
 
-7.  Commit your changes by clicking the 'Commit changes...' button and set the commit message to "Completed Task One"
+8.  Commit your changes by clicking the 'Commit changes...' button and set the commit message to "Completed Task One"
 ```
 
 You have now completed your first assignment! 🤘
